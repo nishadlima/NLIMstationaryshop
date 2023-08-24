@@ -9,6 +9,7 @@ Welcome to the Stationery Shop website repository! This website is designed to s
 - [Features](#features)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Links](#links)
 
 ## Demo
 
@@ -47,4 +48,6 @@ To run this website locally, follow these steps:
 <img width="960" alt="Screenshot 2023-08-24 115341" src="https://github.com/nishadlima/NLIMstationaryshop/assets/106856719/fb4b3363-3283-453b-9434-07f7ecce7706">
 
 
-
+## Links
+link to the site
+https://magenta-jelly-3dd726.netlify.app
